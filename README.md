@@ -1,7 +1,7 @@
 # Dynamic Programming
 ## [Fibonacci Series](https://leetcode.com/problems/fibonacci-number/)
 
-```
+```cpp
 class Solution {
 public:
     int fib(int n) {
